@@ -11,4 +11,4 @@
 
 ### Languages I use 📈
 
-[![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=10&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
