@@ -13,4 +13,4 @@
 
 ![Havlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Havlong&count_private=true&show_icons=true&theme=vue)
 
-![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=8&theme=vue&card_width=445)
+![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=10&theme=vue&card_width=445)
