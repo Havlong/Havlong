@@ -7,10 +7,8 @@
 - 📧 mail.ru: `grishin_evgenii@inbox.ru` GMail: `yevgeniiletter@gmail.com`
 - 🎹 Fun fact: I also like playing the piano a lot. ~~But lost all the skills required~~ Trying out new stuff
 - 🏆 Cool fact: I participated in NERC finals, but ICPC semifinals is as far as I got
-- ⭐ In my repositories you can find a lot of examples for different languages as I post here most useful of the labs done in university
+- ⭐ There are lots of examples for different languages as I post here most useful of the labs done in university
 
-### Stats for me to be happy 📈
+### Languages I use 📈
 
-[![Havlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Havlong&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=10&theme=vue&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=10&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
