@@ -8,7 +8,3 @@
 - 🎹 Fun fact: I also like playing the piano a lot. ~~But lost all the skills required~~ Trying out new stuff
 - 🏆 Cool fact: I participated in NERC finals, but ICPC semifinals is as far as I got
 - ⭐ There are lots of examples for different languages as I post here most useful of the labs done in university
-
-### Languages I use 📈
-
-[![Havlong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Havlong&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
