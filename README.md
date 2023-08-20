@@ -1,6 +1,6 @@
 ### Name's Eugene 👋
 
-- 🔭 I’m currently working on Recommendations Engine **Arbina-Pixie**
+- 🔭 I’m currently working on Graph-Based Recommendations Engine
 - 🎓 I’m currently learning *Data Science* and *Machine Learning* studying in Penza SU
 - 💬 Ask me about `Kotlin`/`JVM`/`Android` or Competitive programming on `C++`
 - 📫 How to reach me: [Telegram](https://t.me/havlong) [VK](https://vk.com/havlong) [Discord](https://discordapp.com/users/329678418851397653)
